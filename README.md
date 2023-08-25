@@ -1,5 +1,5 @@
 
-# Docker Compose
+# Docker Compose (MongoDB e Mongo Express)
 
 docker-compose.yml para criar um container com MongoDB e Mongo Express para utilização nos estudos.
 
